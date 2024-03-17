@@ -1,6 +1,6 @@
 # Echarts Example
 
-A quick test of echarts.
+A quick test of echarts and gulpjs.
 
 ## Serve
 
